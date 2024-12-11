@@ -120,3 +120,7 @@ if __name__ == "__main__":
 Instalasi: Pastikan Anda memiliki Python terinstal di sistem Anda. Anda dapat mengunduhnya dari python.org.
 
 Clone Repository: Clone repositori ini ke mesin lokal Anda menggunakan perintah berikut:
+
+## ss an
+![Screenshot 2024-12-11 065540](https://github.com/user-attachments/assets/8df78e88-23b0-4b4a-8aa5-20887a4bbea4)
+
